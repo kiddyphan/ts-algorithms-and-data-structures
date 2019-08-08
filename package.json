@@ -30,11 +30,11 @@
   "author": "Thang Phan",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^23.3.3",
-    "jest": "^23.6.0",
-    "ts-jest": "^23.10.3"
+    "@types/jest": "^23.3.14",
+    "jest": "^24.8.0",
+    "ts-jest": "^23.10.5"
   },
   "dependencies": {
-    "typescript": "^3.1.1"
+    "typescript": "^3.5.3"
   }
 }
